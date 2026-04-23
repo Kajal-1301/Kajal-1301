@@ -42,7 +42,7 @@ Stack: React · Tailwind CSS . REST API · CSS . Framer
 Let's connect
 
 - 💼 LinkedIn : (https://www.linkedin.com/in/kajal-kaushik-327099305/)
-- 📧 Email : [kajalkaushik0114@gmail.com]
+- 📧 Email : (kajalkaushik0114@gmail.com)
 
 ---
 
